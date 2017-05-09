@@ -8,6 +8,8 @@ First, install the docker engine on your local machine. Detailed instructions on
 
 # Part 1
 
+This part of the workshop shows how to build a docker image as well as run a container from that image
+
 ## Building a docker image for a sample application
 
 In the first step, you will learn how to build and run a sample application. Go to the folder resources/counter-app-in-memory
