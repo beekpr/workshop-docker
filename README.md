@@ -2,7 +2,7 @@
 
 This is a workshop to learn how to use docker
 
-# Before we begin...
+## Before we begin...
 
 First, install the docker engine on your local machine. Detailed instructions on how to install docker on any platform can be found under https://docs.docker.com/engine/installation/
 
