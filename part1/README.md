@@ -70,7 +70,7 @@ docker run -p 5000:5000 -v src:/opt/counter/src XXXX
 You can also run the app in the backgroud by using the -d flag
 
 ```
-docker run -d -p 5000:5000 -v src:/opt/counter/src XXXX
+docker run -d -p 5000:5000 -v $(pwd)/src:/opt/counter/src XXXX
 ```
 
 ## Finding the running container
